@@ -1,0 +1,28 @@
+mat-form-field,
+textarea {
+  width: 95%;
+  margin: 10px;
+  margin-right: 5px;
+  margin-bottom: 0;
+}
+
+button {
+  margin: 10px;
+}
+
+mat-spinner {
+  margin: auto;
+}
+
+input[type="file"] {
+  visibility: hidden;
+}
+
+.image-preview {
+  height: 5rem;
+  margin: 1rem 1rem;
+}
+
+.image-preview img {
+  height: 100%;
+}
